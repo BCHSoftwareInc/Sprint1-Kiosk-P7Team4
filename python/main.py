@@ -12,6 +12,20 @@ def main():
 
 if __name__ == "__main__":
     main()
-    say name of company 
-    grab full name, department, contact email, and access level 
-    put it in a box 
+    
+
+    code blueprint
+    print("Apex Visitor Check-In")
+name = input("What is your name?:")
+department = input("What is your department?:")
+email = input("What is your email?:")
+access = input("What is your access level?:")
+print("_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ ")
+print("          APEX ENTERTAINMENT PASS")
+print("_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ ")
+print("Attendee :", name) 
+print("ORG :", department) 
+print("Contact :", email) 
+print("Acess :", access) 
+print("Issuer : BCH Software Terminal System")
+print("_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ ")

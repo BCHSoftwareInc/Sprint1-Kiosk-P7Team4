@@ -12,3 +12,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+    say name of company 
+    grab full name, department, contact email, and access level 
+    put it in a box 

@@ -1,0 +1,5 @@
+name = input("What is your name?:")
+print("|----------------------------------   | ")
+print("|          APEX ENTERTAINMENT PASS    |")
+print("|----------------------------------   | ")
+print("|Attendee:"+name.ljust(28)+"|")    

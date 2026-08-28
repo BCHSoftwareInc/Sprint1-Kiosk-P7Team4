@@ -9,7 +9,7 @@ print("|-------------------------------------| ")
 print("|Attendee : "+name.ljust(26)+"|")            
 print("|ORG : "+department.ljust(31)+"|")        
 print("|Contact : "+email.ljust(27)+"|")                   
-print("|Acess : "+access.ljust(29)+"|")
+print("|Access : "+access.ljust(28)+"|")
 print("|Issuer : BCH Software Terminal System|")
 print("+-------------------------------------+")
 
